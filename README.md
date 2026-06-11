@@ -1,4 +1,4 @@
-# TaskFlow ⚡ - Modern Landing Page⚡
+# TaskFlow ⚡ - Modern Landing Page
 
 TaskFlow is a modern, high-performance, and visually stunning landing page for a next-generation project management platform. Designed for agile teams, it showcases a seamless user experience for managing tasks, tracking team velocity, and streamlining workflows with AI-powered suggestions.
 
