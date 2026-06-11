@@ -19,11 +19,11 @@ export default function App() {
       <Navbar />
       <main>
         <Hero />
-        <LogoBar />
+        <Logobar />
         <Features />
         <Pricing />
         <Testimonials />
-        <CTA />
+        <Cta />
       </main>
       <Footer />
     </div>
