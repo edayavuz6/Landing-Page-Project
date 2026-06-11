@@ -4,7 +4,7 @@ import LogoBar from "./components/LogoBar";
 import Features from "./components/Features";
 import Pricing from "./components/Pricing";
 import Testimonials from "./components/Testimonials";
-import CTA from "./components/CTA";
+import CTA from "./components/Cta";
 import Footer from "./components/Footer";
 
 export default function App() {
