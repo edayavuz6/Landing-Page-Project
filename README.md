@@ -50,8 +50,5 @@ Make sure you have **Node.js** (v14 or higher) installed on your machine.
 👩‍💻 Author
 Created with ❤️ by Eda Yavuz
 
-Portfolio: edayavuz6-portfolio.vercel.app
-
-GitHub: @edayavuz6
 
 
